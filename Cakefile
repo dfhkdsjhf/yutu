@@ -32,3 +32,4 @@ task 'build', 'Build ./ from src/', ->
 
 task 'test', 'Run unit test', ->
   test()
+jknghjjhgjhgk
